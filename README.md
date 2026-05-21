@@ -7,6 +7,10 @@ My student profile card — built with React + Vite + TypeScript.
 
 https://YOUR_USERNAME.github.io/my-profile/
 
+## Slide
+
+[CI/CD For Modern Web Developer](https://docs.google.com/presentation/d/1SV_Wq6DlQRE5O93GvXtEqqDlijFS39xAEzUcMU29KQ8/edit?usp=sharing)
+
 ## Tech Stack
 
 - React 19 + TypeScript 6
